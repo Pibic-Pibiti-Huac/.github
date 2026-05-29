@@ -1,6 +1,6 @@
 # **Pibic-Pibiti-Huac**
 
-Esta é uma organização que concentra repositório com dados e códigos produzidos durante projeto de pesquisa **PIBIC/PIBITI**, desenvolvido na Universidade Federal de Campina Grande (UFCG).
+Esta é uma organização que concentra repositórios com dados e códigos produzidos durante projeto de pesquisa **PIBIC/PIBITI**, desenvolvido na Universidade Federal de Campina Grande (UFCG).
 
 Os títulos dos projetos são:
 
