@@ -5,8 +5,8 @@ Esta é uma organização que concentra repositório com dados e códigos produz
 Os títulos dos projetos são:
 
  - **PIBIC**: Concepção e Avaliação de uma Ferramenta de Inteligência Artificial para a Geração de Laudos de Citologia Oncótica.
- 
- -**PIBITI**: Desenvolvimento de um Sistema de Geração Automática de Laudos Médicos por Reconhecimento de Voz e Processamento de Linguagem Natural .
+
+ - **PIBITI**: Desenvolvimento de um Sistema de Geração Automática de Laudos Médicos por Reconhecimento de Voz e Processamento de Linguagem Natural .
 
 ## Alunos
 
